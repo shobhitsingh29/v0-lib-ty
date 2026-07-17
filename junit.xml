@@ -1,60 +1,60 @@
-<testsuites id="" name="" tests="190" failures="0" skipped="39" errors="0" time="243.79897799999998">
-<testsuite name="e2e-tests-fixed.spec.ts" timestamp="2026-07-17T08:14:43.111Z" hostname="Desktop Chrome" tests="38" failures="0" skipped="5" time="112.836" errors="0">
-<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Homepage - / › should load homepage with correct title" classname="e2e-tests-fixed.spec.ts" time="2.971">
+<testsuites id="" name="" tests="190" failures="0" skipped="39" errors="0" time="216.715174">
+<testsuite name="e2e-tests-fixed.spec.ts" timestamp="2026-07-17T13:43:21.460Z" hostname="Desktop Chrome" tests="38" failures="0" skipped="5" time="105.568" errors="0">
+<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Homepage - / › should load homepage with correct title" classname="e2e-tests-fixed.spec.ts" time="2.999">
 </testcase>
-<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Homepage - / › should display main hero section" classname="e2e-tests-fixed.spec.ts" time="2.994">
+<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Homepage - / › should display main hero section" classname="e2e-tests-fixed.spec.ts" time="2.917">
 </testcase>
-<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Homepage - / › should show statistics" classname="e2e-tests-fixed.spec.ts" time="3.349">
+<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Homepage - / › should show statistics" classname="e2e-tests-fixed.spec.ts" time="2.698">
 </testcase>
-<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Homepage - / › should display CTA buttons" classname="e2e-tests-fixed.spec.ts" time="3.232">
+<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Homepage - / › should display CTA buttons" classname="e2e-tests-fixed.spec.ts" time="3.046">
 </testcase>
-<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Homepage - / › should navigate to practice" classname="e2e-tests-fixed.spec.ts" time="3.679">
+<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Homepage - / › should navigate to practice" classname="e2e-tests-fixed.spec.ts" time="3.2">
 </testcase>
-<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Homepage - / › should navigate to test" classname="e2e-tests-fixed.spec.ts" time="4.557">
+<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Homepage - / › should navigate to test" classname="e2e-tests-fixed.spec.ts" time="3.936">
 </testcase>
-<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Practice Page - /practice › should load practice page" classname="e2e-tests-fixed.spec.ts" time="3.814">
+<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Practice Page - /practice › should load practice page" classname="e2e-tests-fixed.spec.ts" time="3.604">
 </testcase>
-<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Practice Page - /practice › should display practice content" classname="e2e-tests-fixed.spec.ts" time="4.299">
+<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Practice Page - /practice › should display practice content" classname="e2e-tests-fixed.spec.ts" time="3.485">
 </testcase>
-<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Practice Page - /practice › should have back button" classname="e2e-tests-fixed.spec.ts" time="4.213">
+<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Practice Page - /practice › should have back button" classname="e2e-tests-fixed.spec.ts" time="3.189">
 </testcase>
-<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Practice Page - /practice › back button should navigate to home" classname="e2e-tests-fixed.spec.ts" time="3.828">
+<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Practice Page - /practice › back button should navigate to home" classname="e2e-tests-fixed.spec.ts" time="4.176">
 </testcase>
-<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Test Page - /test › should load test page" classname="e2e-tests-fixed.spec.ts" time="4.536">
+<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Test Page - /test › should load test page" classname="e2e-tests-fixed.spec.ts" time="5.05">
 </testcase>
-<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Test Page - /test › should have test configuration" classname="e2e-tests-fixed.spec.ts" time="4.695">
+<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Test Page - /test › should have test configuration" classname="e2e-tests-fixed.spec.ts" time="4.874">
 </testcase>
-<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Test Page - /test › back button should navigate to home" classname="e2e-tests-fixed.spec.ts" time="3.447">
+<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Test Page - /test › back button should navigate to home" classname="e2e-tests-fixed.spec.ts" time="3.269">
 </testcase>
-<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Review Page - /review › should load review page" classname="e2e-tests-fixed.spec.ts" time="2.82">
+<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Review Page - /review › should load review page" classname="e2e-tests-fixed.spec.ts" time="2.542">
 </testcase>
-<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Review Page - /review › should have back button" classname="e2e-tests-fixed.spec.ts" time="2.637">
+<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Review Page - /review › should have back button" classname="e2e-tests-fixed.spec.ts" time="2.005">
 </testcase>
-<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Settings Page - /settings › should load settings page" classname="e2e-tests-fixed.spec.ts" time="2.623">
+<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Settings Page - /settings › should load settings page" classname="e2e-tests-fixed.spec.ts" time="2.443">
 </testcase>
-<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Settings Page - /settings › should have back button" classname="e2e-tests-fixed.spec.ts" time="2.162">
+<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Settings Page - /settings › should have back button" classname="e2e-tests-fixed.spec.ts" time="2.194">
 </testcase>
-<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Stats Page - /stats › should load stats page" classname="e2e-tests-fixed.spec.ts" time="2.29">
+<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Stats Page - /stats › should load stats page" classname="e2e-tests-fixed.spec.ts" time="2.205">
 </testcase>
-<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Stats Page - /stats › should have back button" classname="e2e-tests-fixed.spec.ts" time="2.414">
+<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Stats Page - /stats › should have back button" classname="e2e-tests-fixed.spec.ts" time="2.517">
 </testcase>
-<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Homepage - / › should load homepage with correct title" classname="e2e-tests-fixed.spec.ts" time="2.345">
+<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Homepage - / › should load homepage with correct title" classname="e2e-tests-fixed.spec.ts" time="2.239">
 </testcase>
-<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Homepage - / › should display main hero section" classname="e2e-tests-fixed.spec.ts" time="2.131">
+<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Homepage - / › should display main hero section" classname="e2e-tests-fixed.spec.ts" time="2.06">
 </testcase>
-<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Homepage - / › should show statistics" classname="e2e-tests-fixed.spec.ts" time="2.192">
+<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Homepage - / › should show statistics" classname="e2e-tests-fixed.spec.ts" time="2.017">
 </testcase>
-<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Homepage - / › should display CTA buttons" classname="e2e-tests-fixed.spec.ts" time="1.896">
+<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Homepage - / › should display CTA buttons" classname="e2e-tests-fixed.spec.ts" time="2.401">
 </testcase>
-<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Homepage - / › should navigate to practice" classname="e2e-tests-fixed.spec.ts" time="3.194">
+<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Homepage - / › should navigate to practice" classname="e2e-tests-fixed.spec.ts" time="2.827">
 </testcase>
-<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Homepage - / › should navigate to test" classname="e2e-tests-fixed.spec.ts" time="3.345">
+<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Homepage - / › should navigate to test" classname="e2e-tests-fixed.spec.ts" time="3.213">
 </testcase>
-<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Practice Page - /practice › should load practice page" classname="e2e-tests-fixed.spec.ts" time="2.751">
+<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Practice Page - /practice › should load practice page" classname="e2e-tests-fixed.spec.ts" time="2.612">
 </testcase>
-<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Practice Page - /practice › should display practice content" classname="e2e-tests-fixed.spec.ts" time="3.009">
+<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Practice Page - /practice › should display practice content" classname="e2e-tests-fixed.spec.ts" time="2.944">
 </testcase>
-<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Practice Page - /practice › should have back button" classname="e2e-tests-fixed.spec.ts" time="2.612">
+<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Practice Page - /practice › should have back button" classname="e2e-tests-fixed.spec.ts" time="2.129">
 <properties>
 <property name="skip" value="">
 </property>
@@ -62,7 +62,7 @@
 <skipped>
 </skipped>
 </testcase>
-<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Practice Page - /practice › back button should navigate to home" classname="e2e-tests-fixed.spec.ts" time="2.987">
+<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Practice Page - /practice › back button should navigate to home" classname="e2e-tests-fixed.spec.ts" time="2.4">
 <properties>
 <property name="skip" value="">
 </property>
@@ -70,15 +70,15 @@
 <skipped>
 </skipped>
 </testcase>
-<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Test Page - /test › should load test page" classname="e2e-tests-fixed.spec.ts" time="3.539">
+<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Test Page - /test › should load test page" classname="e2e-tests-fixed.spec.ts" time="2.889">
 </testcase>
-<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Test Page - /test › should have test configuration" classname="e2e-tests-fixed.spec.ts" time="3.735">
+<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Test Page - /test › should have test configuration" classname="e2e-tests-fixed.spec.ts" time="3.281">
 </testcase>
-<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Test Page - /test › back button should navigate to home" classname="e2e-tests-fixed.spec.ts" time="3.181">
+<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Test Page - /test › back button should navigate to home" classname="e2e-tests-fixed.spec.ts" time="3.127">
 </testcase>
-<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Review Page - /review › should load review page" classname="e2e-tests-fixed.spec.ts" time="2.205">
+<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Review Page - /review › should load review page" classname="e2e-tests-fixed.spec.ts" time="2.223">
 </testcase>
-<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Review Page - /review › should have back button" classname="e2e-tests-fixed.spec.ts" time="2.234">
+<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Review Page - /review › should have back button" classname="e2e-tests-fixed.spec.ts" time="2.21">
 <properties>
 <property name="skip" value="">
 </property>
@@ -86,9 +86,9 @@
 <skipped>
 </skipped>
 </testcase>
-<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Settings Page - /settings › should load settings page" classname="e2e-tests-fixed.spec.ts" time="1.916">
+<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Settings Page - /settings › should load settings page" classname="e2e-tests-fixed.spec.ts" time="1.745">
 </testcase>
-<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Settings Page - /settings › should have back button" classname="e2e-tests-fixed.spec.ts" time="1.858">
+<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Settings Page - /settings › should have back button" classname="e2e-tests-fixed.spec.ts" time="1.741">
 <properties>
 <property name="skip" value="">
 </property>
@@ -96,128 +96,9 @@
 <skipped>
 </skipped>
 </testcase>
-<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Stats Page - /stats › should load stats page" classname="e2e-tests-fixed.spec.ts" time="1.646">
+<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Stats Page - /stats › should load stats page" classname="e2e-tests-fixed.spec.ts" time="1.69">
 </testcase>
-<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Stats Page - /stats › should have back button" classname="e2e-tests-fixed.spec.ts" time="1.5">
-<properties>
-<property name="skip" value="">
-</property>
-</properties>
-<skipped>
-</skipped>
-</testcase>
-</testsuite>
-<testsuite name="e2e-tests-fixed.spec.ts" timestamp="2026-07-17T08:14:43.111Z" hostname="Desktop Firefox" tests="38" failures="0" skipped="5" time="257.812" errors="0">
-<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Homepage - / › should load homepage with correct title" classname="e2e-tests-fixed.spec.ts" time="4.924">
-</testcase>
-<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Homepage - / › should display main hero section" classname="e2e-tests-fixed.spec.ts" time="6.565">
-</testcase>
-<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Homepage - / › should show statistics" classname="e2e-tests-fixed.spec.ts" time="4.971">
-</testcase>
-<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Homepage - / › should display CTA buttons" classname="e2e-tests-fixed.spec.ts" time="7.458">
-</testcase>
-<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Homepage - / › should navigate to practice" classname="e2e-tests-fixed.spec.ts" time="5.717">
-</testcase>
-<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Homepage - / › should navigate to test" classname="e2e-tests-fixed.spec.ts" time="5.379">
-</testcase>
-<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Practice Page - /practice › should load practice page" classname="e2e-tests-fixed.spec.ts" time="5.017">
-</testcase>
-<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Practice Page - /practice › should display practice content" classname="e2e-tests-fixed.spec.ts" time="5.61">
-</testcase>
-<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Practice Page - /practice › should have back button" classname="e2e-tests-fixed.spec.ts" time="5.183">
-</testcase>
-<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Practice Page - /practice › back button should navigate to home" classname="e2e-tests-fixed.spec.ts" time="6.107">
-</testcase>
-<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Test Page - /test › should load test page" classname="e2e-tests-fixed.spec.ts" time="4.713">
-</testcase>
-<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Test Page - /test › should have test configuration" classname="e2e-tests-fixed.spec.ts" time="4.014">
-</testcase>
-<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Test Page - /test › back button should navigate to home" classname="e2e-tests-fixed.spec.ts" time="5.197">
-</testcase>
-<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Review Page - /review › should load review page" classname="e2e-tests-fixed.spec.ts" time="4.153">
-</testcase>
-<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Review Page - /review › should have back button" classname="e2e-tests-fixed.spec.ts" time="3.524">
-</testcase>
-<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Settings Page - /settings › should load settings page" classname="e2e-tests-fixed.spec.ts" time="3.084">
-</testcase>
-<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Settings Page - /settings › should have back button" classname="e2e-tests-fixed.spec.ts" time="3.398">
-</testcase>
-<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Stats Page - /stats › should load stats page" classname="e2e-tests-fixed.spec.ts" time="4.044">
-</testcase>
-<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Stats Page - /stats › should have back button" classname="e2e-tests-fixed.spec.ts" time="3.577">
-</testcase>
-<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Homepage - / › should load homepage with correct title" classname="e2e-tests-fixed.spec.ts" time="3.886">
-</testcase>
-<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Homepage - / › should display main hero section" classname="e2e-tests-fixed.spec.ts" time="10.129">
-<system-out>
-<![CDATA[
-[[ATTACHMENT|test-results/output/e2e-tests-fixed--Mobile-Le-6e72d-d-display-main-hero-section-Desktop-Firefox/test-failed-1.png]]
-
-[[ATTACHMENT|test-results/output/e2e-tests-fixed--Mobile-Le-6e72d-d-display-main-hero-section-Desktop-Firefox/video.webm]]
-
-[[ATTACHMENT|test-results/output/e2e-tests-fixed--Mobile-Le-6e72d-d-display-main-hero-section-Desktop-Firefox/error-context.md]]
-
-[[ATTACHMENT|test-results/output/e2e-tests-fixed--Mobile-Le-6e72d-d-display-main-hero-section-Desktop-Firefox-retry1/trace.zip]]
-]]>
-</system-out>
-</testcase>
-<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Homepage - / › should show statistics" classname="e2e-tests-fixed.spec.ts" time="3.518">
-</testcase>
-<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Homepage - / › should display CTA buttons" classname="e2e-tests-fixed.spec.ts" time="3.583">
-</testcase>
-<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Homepage - / › should navigate to practice" classname="e2e-tests-fixed.spec.ts" time="4.11">
-</testcase>
-<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Homepage - / › should navigate to test" classname="e2e-tests-fixed.spec.ts" time="4.038">
-</testcase>
-<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Practice Page - /practice › should load practice page" classname="e2e-tests-fixed.spec.ts" time="3.106">
-</testcase>
-<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Practice Page - /practice › should display practice content" classname="e2e-tests-fixed.spec.ts" time="3.761">
-</testcase>
-<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Practice Page - /practice › should have back button" classname="e2e-tests-fixed.spec.ts" time="3.625">
-<properties>
-<property name="skip" value="">
-</property>
-</properties>
-<skipped>
-</skipped>
-</testcase>
-<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Practice Page - /practice › back button should navigate to home" classname="e2e-tests-fixed.spec.ts" time="3.078">
-<properties>
-<property name="skip" value="">
-</property>
-</properties>
-<skipped>
-</skipped>
-</testcase>
-<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Test Page - /test › should load test page" classname="e2e-tests-fixed.spec.ts" time="2.711">
-</testcase>
-<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Test Page - /test › should have test configuration" classname="e2e-tests-fixed.spec.ts" time="3.005">
-</testcase>
-<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Test Page - /test › back button should navigate to home" classname="e2e-tests-fixed.spec.ts" time="51.946">
-</testcase>
-<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Review Page - /review › should load review page" classname="e2e-tests-fixed.spec.ts" time="2.559">
-</testcase>
-<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Review Page - /review › should have back button" classname="e2e-tests-fixed.spec.ts" time="2.087">
-<properties>
-<property name="skip" value="">
-</property>
-</properties>
-<skipped>
-</skipped>
-</testcase>
-<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Settings Page - /settings › should load settings page" classname="e2e-tests-fixed.spec.ts" time="2.993">
-</testcase>
-<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Settings Page - /settings › should have back button" classname="e2e-tests-fixed.spec.ts" time="3.214">
-<properties>
-<property name="skip" value="">
-</property>
-</properties>
-<skipped>
-</skipped>
-</testcase>
-<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Stats Page - /stats › should load stats page" classname="e2e-tests-fixed.spec.ts" time="1.916">
-</testcase>
-<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Stats Page - /stats › should have back button" classname="e2e-tests-fixed.spec.ts" time="51.912">
+<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Stats Page - /stats › should have back button" classname="e2e-tests-fixed.spec.ts" time="1.471">
 <properties>
 <property name="skip" value="">
 </property>
@@ -226,10 +107,118 @@
 </skipped>
 </testcase>
 </testsuite>
-<testsuite name="e2e-tests-fixed.spec.ts" timestamp="2026-07-17T08:14:43.111Z" hostname="Desktop Safari" tests="38" failures="0" skipped="12" time="152.785" errors="0">
-<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Homepage - / › should load homepage with correct title" classname="e2e-tests-fixed.spec.ts" time="19.924">
+<testsuite name="e2e-tests-fixed.spec.ts" timestamp="2026-07-17T13:43:21.460Z" hostname="Desktop Firefox" tests="38" failures="0" skipped="5" time="201.291" errors="0">
+<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Homepage - / › should load homepage with correct title" classname="e2e-tests-fixed.spec.ts" time="7.366">
 </testcase>
-<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Homepage - / › should display main hero section" classname="e2e-tests-fixed.spec.ts" time="17.66">
+<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Homepage - / › should display main hero section" classname="e2e-tests-fixed.spec.ts" time="4.33">
+</testcase>
+<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Homepage - / › should show statistics" classname="e2e-tests-fixed.spec.ts" time="6.805">
+</testcase>
+<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Homepage - / › should display CTA buttons" classname="e2e-tests-fixed.spec.ts" time="4.589">
+</testcase>
+<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Homepage - / › should navigate to practice" classname="e2e-tests-fixed.spec.ts" time="5.24">
+</testcase>
+<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Homepage - / › should navigate to test" classname="e2e-tests-fixed.spec.ts" time="4.943">
+</testcase>
+<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Practice Page - /practice › should load practice page" classname="e2e-tests-fixed.spec.ts" time="4.893">
+</testcase>
+<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Practice Page - /practice › should display practice content" classname="e2e-tests-fixed.spec.ts" time="4.724">
+</testcase>
+<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Practice Page - /practice › should have back button" classname="e2e-tests-fixed.spec.ts" time="4.692">
+</testcase>
+<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Practice Page - /practice › back button should navigate to home" classname="e2e-tests-fixed.spec.ts" time="4.842">
+</testcase>
+<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Test Page - /test › should load test page" classname="e2e-tests-fixed.spec.ts" time="3.822">
+</testcase>
+<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Test Page - /test › should have test configuration" classname="e2e-tests-fixed.spec.ts" time="4.011">
+</testcase>
+<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Test Page - /test › back button should navigate to home" classname="e2e-tests-fixed.spec.ts" time="5.368">
+</testcase>
+<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Review Page - /review › should load review page" classname="e2e-tests-fixed.spec.ts" time="4.182">
+</testcase>
+<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Review Page - /review › should have back button" classname="e2e-tests-fixed.spec.ts" time="3.412">
+</testcase>
+<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Settings Page - /settings › should load settings page" classname="e2e-tests-fixed.spec.ts" time="2.891">
+</testcase>
+<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Settings Page - /settings › should have back button" classname="e2e-tests-fixed.spec.ts" time="3.62">
+</testcase>
+<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Stats Page - /stats › should load stats page" classname="e2e-tests-fixed.spec.ts" time="3.183">
+</testcase>
+<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Stats Page - /stats › should have back button" classname="e2e-tests-fixed.spec.ts" time="3.553">
+</testcase>
+<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Homepage - / › should load homepage with correct title" classname="e2e-tests-fixed.spec.ts" time="3.497">
+</testcase>
+<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Homepage - / › should display main hero section" classname="e2e-tests-fixed.spec.ts" time="3.721">
+</testcase>
+<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Homepage - / › should show statistics" classname="e2e-tests-fixed.spec.ts" time="3.044">
+</testcase>
+<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Homepage - / › should display CTA buttons" classname="e2e-tests-fixed.spec.ts" time="3.203">
+</testcase>
+<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Homepage - / › should navigate to practice" classname="e2e-tests-fixed.spec.ts" time="4.186">
+</testcase>
+<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Homepage - / › should navigate to test" classname="e2e-tests-fixed.spec.ts" time="3.74">
+</testcase>
+<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Practice Page - /practice › should load practice page" classname="e2e-tests-fixed.spec.ts" time="3.294">
+</testcase>
+<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Practice Page - /practice › should display practice content" classname="e2e-tests-fixed.spec.ts" time="4.941">
+</testcase>
+<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Practice Page - /practice › should have back button" classname="e2e-tests-fixed.spec.ts" time="4.015">
+<properties>
+<property name="skip" value="">
+</property>
+</properties>
+<skipped>
+</skipped>
+</testcase>
+<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Practice Page - /practice › back button should navigate to home" classname="e2e-tests-fixed.spec.ts" time="3.773">
+<properties>
+<property name="skip" value="">
+</property>
+</properties>
+<skipped>
+</skipped>
+</testcase>
+<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Test Page - /test › should load test page" classname="e2e-tests-fixed.spec.ts" time="3.453">
+</testcase>
+<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Test Page - /test › should have test configuration" classname="e2e-tests-fixed.spec.ts" time="3.917">
+</testcase>
+<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Test Page - /test › back button should navigate to home" classname="e2e-tests-fixed.spec.ts" time="4.009">
+</testcase>
+<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Review Page - /review › should load review page" classname="e2e-tests-fixed.spec.ts" time="3.41">
+</testcase>
+<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Review Page - /review › should have back button" classname="e2e-tests-fixed.spec.ts" time="3.307">
+<properties>
+<property name="skip" value="">
+</property>
+</properties>
+<skipped>
+</skipped>
+</testcase>
+<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Settings Page - /settings › should load settings page" classname="e2e-tests-fixed.spec.ts" time="2.821">
+</testcase>
+<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Settings Page - /settings › should have back button" classname="e2e-tests-fixed.spec.ts" time="2.595">
+<properties>
+<property name="skip" value="">
+</property>
+</properties>
+<skipped>
+</skipped>
+</testcase>
+<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Stats Page - /stats › should load stats page" classname="e2e-tests-fixed.spec.ts" time="2.551">
+</testcase>
+<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Stats Page - /stats › should have back button" classname="e2e-tests-fixed.spec.ts" time="51.348">
+<properties>
+<property name="skip" value="">
+</property>
+</properties>
+<skipped>
+</skipped>
+</testcase>
+</testsuite>
+<testsuite name="e2e-tests-fixed.spec.ts" timestamp="2026-07-17T13:43:21.460Z" hostname="Desktop Safari" tests="38" failures="0" skipped="12" time="131.304" errors="0">
+<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Homepage - / › should load homepage with correct title" classname="e2e-tests-fixed.spec.ts" time="5.201">
+</testcase>
+<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Homepage - / › should display main hero section" classname="e2e-tests-fixed.spec.ts" time="4.586">
 <properties>
 <property name="skip" value="Safari has different DOM rendering">
 </property>
@@ -237,7 +226,7 @@
 <skipped>
 </skipped>
 </testcase>
-<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Homepage - / › should show statistics" classname="e2e-tests-fixed.spec.ts" time="2.095">
+<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Homepage - / › should show statistics" classname="e2e-tests-fixed.spec.ts" time="4.747">
 <properties>
 <property name="skip" value="Safari has different DOM rendering">
 </property>
@@ -245,19 +234,19 @@
 <skipped>
 </skipped>
 </testcase>
-<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Homepage - / › should display CTA buttons" classname="e2e-tests-fixed.spec.ts" time="3.432">
+<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Homepage - / › should display CTA buttons" classname="e2e-tests-fixed.spec.ts" time="4.343">
 </testcase>
-<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Homepage - / › should navigate to practice" classname="e2e-tests-fixed.spec.ts" time="3.517">
+<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Homepage - / › should navigate to practice" classname="e2e-tests-fixed.spec.ts" time="9.996">
 </testcase>
-<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Homepage - / › should navigate to test" classname="e2e-tests-fixed.spec.ts" time="3.657">
+<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Homepage - / › should navigate to test" classname="e2e-tests-fixed.spec.ts" time="6.588">
 </testcase>
-<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Practice Page - /practice › should load practice page" classname="e2e-tests-fixed.spec.ts" time="2.012">
+<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Practice Page - /practice › should load practice page" classname="e2e-tests-fixed.spec.ts" time="2.9">
 </testcase>
-<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Practice Page - /practice › should display practice content" classname="e2e-tests-fixed.spec.ts" time="2.507">
+<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Practice Page - /practice › should display practice content" classname="e2e-tests-fixed.spec.ts" time="4.096">
 </testcase>
-<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Practice Page - /practice › should have back button" classname="e2e-tests-fixed.spec.ts" time="2.803">
+<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Practice Page - /practice › should have back button" classname="e2e-tests-fixed.spec.ts" time="4.064">
 </testcase>
-<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Practice Page - /practice › back button should navigate to home" classname="e2e-tests-fixed.spec.ts" time="2.288">
+<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Practice Page - /practice › back button should navigate to home" classname="e2e-tests-fixed.spec.ts" time="3.684">
 <properties>
 <property name="skip" value="Safari has navigation timeout issues">
 </property>
@@ -265,11 +254,11 @@
 <skipped>
 </skipped>
 </testcase>
-<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Test Page - /test › should load test page" classname="e2e-tests-fixed.spec.ts" time="5.969">
+<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Test Page - /test › should load test page" classname="e2e-tests-fixed.spec.ts" time="4.099">
 </testcase>
-<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Test Page - /test › should have test configuration" classname="e2e-tests-fixed.spec.ts" time="3.685">
+<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Test Page - /test › should have test configuration" classname="e2e-tests-fixed.spec.ts" time="4.348">
 </testcase>
-<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Test Page - /test › back button should navigate to home" classname="e2e-tests-fixed.spec.ts" time="3.578">
+<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Test Page - /test › back button should navigate to home" classname="e2e-tests-fixed.spec.ts" time="4.007">
 <properties>
 <property name="skip" value="Safari has navigation timeout issues">
 </property>
@@ -277,21 +266,21 @@
 <skipped>
 </skipped>
 </testcase>
-<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Review Page - /review › should load review page" classname="e2e-tests-fixed.spec.ts" time="2.663">
+<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Review Page - /review › should load review page" classname="e2e-tests-fixed.spec.ts" time="3.626">
 </testcase>
 <testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Review Page - /review › should have back button" classname="e2e-tests-fixed.spec.ts" time="3.259">
 </testcase>
-<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Settings Page - /settings › should load settings page" classname="e2e-tests-fixed.spec.ts" time="2.528">
+<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Settings Page - /settings › should load settings page" classname="e2e-tests-fixed.spec.ts" time="2.931">
 </testcase>
-<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Settings Page - /settings › should have back button" classname="e2e-tests-fixed.spec.ts" time="3.266">
+<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Settings Page - /settings › should have back button" classname="e2e-tests-fixed.spec.ts" time="3.013">
 </testcase>
-<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Stats Page - /stats › should load stats page" classname="e2e-tests-fixed.spec.ts" time="1.842">
+<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Stats Page - /stats › should load stats page" classname="e2e-tests-fixed.spec.ts" time="3.243">
 </testcase>
-<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Stats Page - /stats › should have back button" classname="e2e-tests-fixed.spec.ts" time="2.33">
+<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Stats Page - /stats › should have back button" classname="e2e-tests-fixed.spec.ts" time="2.795">
 </testcase>
-<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Homepage - / › should load homepage with correct title" classname="e2e-tests-fixed.spec.ts" time="2.143">
+<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Homepage - / › should load homepage with correct title" classname="e2e-tests-fixed.spec.ts" time="1.863">
 </testcase>
-<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Homepage - / › should display main hero section" classname="e2e-tests-fixed.spec.ts" time="1.81">
+<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Homepage - / › should display main hero section" classname="e2e-tests-fixed.spec.ts" time="1.686">
 <properties>
 <property name="skip" value="Safari has different DOM rendering">
 </property>
@@ -299,7 +288,7 @@
 <skipped>
 </skipped>
 </testcase>
-<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Homepage - / › should show statistics" classname="e2e-tests-fixed.spec.ts" time="2.213">
+<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Homepage - / › should show statistics" classname="e2e-tests-fixed.spec.ts" time="1.696">
 <properties>
 <property name="skip" value="Safari has different DOM rendering">
 </property>
@@ -307,17 +296,17 @@
 <skipped>
 </skipped>
 </testcase>
-<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Homepage - / › should display CTA buttons" classname="e2e-tests-fixed.spec.ts" time="4.81">
+<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Homepage - / › should display CTA buttons" classname="e2e-tests-fixed.spec.ts" time="2.891">
 </testcase>
-<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Homepage - / › should navigate to practice" classname="e2e-tests-fixed.spec.ts" time="5.416">
+<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Homepage - / › should navigate to practice" classname="e2e-tests-fixed.spec.ts" time="4.525">
 </testcase>
-<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Homepage - / › should navigate to test" classname="e2e-tests-fixed.spec.ts" time="4.576">
+<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Homepage - / › should navigate to test" classname="e2e-tests-fixed.spec.ts" time="3.974">
 </testcase>
-<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Practice Page - /practice › should load practice page" classname="e2e-tests-fixed.spec.ts" time="5.165">
+<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Practice Page - /practice › should load practice page" classname="e2e-tests-fixed.spec.ts" time="2.761">
 </testcase>
-<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Practice Page - /practice › should display practice content" classname="e2e-tests-fixed.spec.ts" time="3.883">
+<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Practice Page - /practice › should display practice content" classname="e2e-tests-fixed.spec.ts" time="3.109">
 </testcase>
-<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Practice Page - /practice › should have back button" classname="e2e-tests-fixed.spec.ts" time="2.785">
+<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Practice Page - /practice › should have back button" classname="e2e-tests-fixed.spec.ts" time="2.529">
 <properties>
 <property name="skip" value="">
 </property>
@@ -325,7 +314,7 @@
 <skipped>
 </skipped>
 </testcase>
-<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Practice Page - /practice › back button should navigate to home" classname="e2e-tests-fixed.spec.ts" time="3.158">
+<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Practice Page - /practice › back button should navigate to home" classname="e2e-tests-fixed.spec.ts" time="2.594">
 <properties>
 <property name="skip" value="">
 </property>
@@ -333,11 +322,11 @@
 <skipped>
 </skipped>
 </testcase>
-<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Test Page - /test › should load test page" classname="e2e-tests-fixed.spec.ts" time="3.68">
+<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Test Page - /test › should load test page" classname="e2e-tests-fixed.spec.ts" time="3.32">
 </testcase>
-<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Test Page - /test › should have test configuration" classname="e2e-tests-fixed.spec.ts" time="4.388">
+<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Test Page - /test › should have test configuration" classname="e2e-tests-fixed.spec.ts" time="3.319">
 </testcase>
-<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Test Page - /test › back button should navigate to home" classname="e2e-tests-fixed.spec.ts" time="4.049">
+<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Test Page - /test › back button should navigate to home" classname="e2e-tests-fixed.spec.ts" time="2.64">
 <properties>
 <property name="skip" value="Safari has navigation timeout issues">
 </property>
@@ -345,9 +334,9 @@
 <skipped>
 </skipped>
 </testcase>
-<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Review Page - /review › should load review page" classname="e2e-tests-fixed.spec.ts" time="3.183">
+<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Review Page - /review › should load review page" classname="e2e-tests-fixed.spec.ts" time="1.506">
 </testcase>
-<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Review Page - /review › should have back button" classname="e2e-tests-fixed.spec.ts" time="2.772">
+<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Review Page - /review › should have back button" classname="e2e-tests-fixed.spec.ts" time="2.744">
 <properties>
 <property name="skip" value="">
 </property>
@@ -355,9 +344,9 @@
 <skipped>
 </skipped>
 </testcase>
-<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Settings Page - /settings › should load settings page" classname="e2e-tests-fixed.spec.ts" time="2.677">
+<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Settings Page - /settings › should load settings page" classname="e2e-tests-fixed.spec.ts" time="2.011">
 </testcase>
-<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Settings Page - /settings › should have back button" classname="e2e-tests-fixed.spec.ts" time="2.8">
+<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Settings Page - /settings › should have back button" classname="e2e-tests-fixed.spec.ts" time="2.318">
 <properties>
 <property name="skip" value="">
 </property>
@@ -365,9 +354,9 @@
 <skipped>
 </skipped>
 </testcase>
-<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Stats Page - /stats › should load stats page" classname="e2e-tests-fixed.spec.ts" time="2.274">
+<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Stats Page - /stats › should load stats page" classname="e2e-tests-fixed.spec.ts" time="2.186">
 </testcase>
-<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Stats Page - /stats › should have back button" classname="e2e-tests-fixed.spec.ts" time="1.988">
+<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Stats Page - /stats › should have back button" classname="e2e-tests-fixed.spec.ts" time="2.106">
 <properties>
 <property name="skip" value="">
 </property>
@@ -376,62 +365,62 @@
 </skipped>
 </testcase>
 </testsuite>
-<testsuite name="e2e-tests-fixed.spec.ts" timestamp="2026-07-17T08:14:43.111Z" hostname="Mobile Chrome" tests="38" failures="0" skipped="5" time="162.68" errors="0">
-<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Homepage - / › should load homepage with correct title" classname="e2e-tests-fixed.spec.ts" time="3.328">
+<testsuite name="e2e-tests-fixed.spec.ts" timestamp="2026-07-17T13:43:21.460Z" hostname="Mobile Chrome" tests="38" failures="0" skipped="5" time="161.605" errors="0">
+<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Homepage - / › should load homepage with correct title" classname="e2e-tests-fixed.spec.ts" time="3.313">
 </testcase>
-<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Homepage - / › should display main hero section" classname="e2e-tests-fixed.spec.ts" time="3.904">
+<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Homepage - / › should display main hero section" classname="e2e-tests-fixed.spec.ts" time="2.944">
 </testcase>
-<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Homepage - / › should show statistics" classname="e2e-tests-fixed.spec.ts" time="4.001">
+<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Homepage - / › should show statistics" classname="e2e-tests-fixed.spec.ts" time="3.454">
 </testcase>
-<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Homepage - / › should display CTA buttons" classname="e2e-tests-fixed.spec.ts" time="3.679">
+<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Homepage - / › should display CTA buttons" classname="e2e-tests-fixed.spec.ts" time="4.569">
 </testcase>
-<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Homepage - / › should navigate to practice" classname="e2e-tests-fixed.spec.ts" time="5.131">
+<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Homepage - / › should navigate to practice" classname="e2e-tests-fixed.spec.ts" time="4.784">
 </testcase>
-<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Homepage - / › should navigate to test" classname="e2e-tests-fixed.spec.ts" time="8.126">
+<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Homepage - / › should navigate to test" classname="e2e-tests-fixed.spec.ts" time="7.498">
 </testcase>
-<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Practice Page - /practice › should load practice page" classname="e2e-tests-fixed.spec.ts" time="5.547">
+<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Practice Page - /practice › should load practice page" classname="e2e-tests-fixed.spec.ts" time="4.794">
 </testcase>
-<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Practice Page - /practice › should display practice content" classname="e2e-tests-fixed.spec.ts" time="6.003">
+<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Practice Page - /practice › should display practice content" classname="e2e-tests-fixed.spec.ts" time="4.336">
 </testcase>
-<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Practice Page - /practice › should have back button" classname="e2e-tests-fixed.spec.ts" time="6.095">
+<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Practice Page - /practice › should have back button" classname="e2e-tests-fixed.spec.ts" time="5.108">
 </testcase>
-<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Practice Page - /practice › back button should navigate to home" classname="e2e-tests-fixed.spec.ts" time="5.232">
+<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Practice Page - /practice › back button should navigate to home" classname="e2e-tests-fixed.spec.ts" time="5.029">
 </testcase>
-<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Test Page - /test › should load test page" classname="e2e-tests-fixed.spec.ts" time="7.957">
+<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Test Page - /test › should load test page" classname="e2e-tests-fixed.spec.ts" time="7.668">
 </testcase>
-<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Test Page - /test › should have test configuration" classname="e2e-tests-fixed.spec.ts" time="9.53">
+<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Test Page - /test › should have test configuration" classname="e2e-tests-fixed.spec.ts" time="10.164">
 </testcase>
-<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Test Page - /test › back button should navigate to home" classname="e2e-tests-fixed.spec.ts" time="4.223">
+<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Test Page - /test › back button should navigate to home" classname="e2e-tests-fixed.spec.ts" time="4.507">
 </testcase>
-<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Review Page - /review › should load review page" classname="e2e-tests-fixed.spec.ts" time="3.43">
+<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Review Page - /review › should load review page" classname="e2e-tests-fixed.spec.ts" time="3.678">
 </testcase>
-<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Review Page - /review › should have back button" classname="e2e-tests-fixed.spec.ts" time="3.156">
+<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Review Page - /review › should have back button" classname="e2e-tests-fixed.spec.ts" time="3.065">
 </testcase>
-<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Settings Page - /settings › should load settings page" classname="e2e-tests-fixed.spec.ts" time="2.268">
+<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Settings Page - /settings › should load settings page" classname="e2e-tests-fixed.spec.ts" time="3.023">
 </testcase>
-<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Settings Page - /settings › should have back button" classname="e2e-tests-fixed.spec.ts" time="3.216">
+<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Settings Page - /settings › should have back button" classname="e2e-tests-fixed.spec.ts" time="2.393">
 </testcase>
-<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Stats Page - /stats › should load stats page" classname="e2e-tests-fixed.spec.ts" time="3.015">
+<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Stats Page - /stats › should load stats page" classname="e2e-tests-fixed.spec.ts" time="3.193">
 </testcase>
-<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Stats Page - /stats › should have back button" classname="e2e-tests-fixed.spec.ts" time="3.305">
+<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Stats Page - /stats › should have back button" classname="e2e-tests-fixed.spec.ts" time="2.886">
 </testcase>
-<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Homepage - / › should load homepage with correct title" classname="e2e-tests-fixed.spec.ts" time="2.571">
+<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Homepage - / › should load homepage with correct title" classname="e2e-tests-fixed.spec.ts" time="2.736">
 </testcase>
-<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Homepage - / › should display main hero section" classname="e2e-tests-fixed.spec.ts" time="2.423">
+<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Homepage - / › should display main hero section" classname="e2e-tests-fixed.spec.ts" time="2.791">
 </testcase>
-<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Homepage - / › should show statistics" classname="e2e-tests-fixed.spec.ts" time="2.479">
+<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Homepage - / › should show statistics" classname="e2e-tests-fixed.spec.ts" time="3.01">
 </testcase>
-<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Homepage - / › should display CTA buttons" classname="e2e-tests-fixed.spec.ts" time="2.68">
+<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Homepage - / › should display CTA buttons" classname="e2e-tests-fixed.spec.ts" time="3.04">
 </testcase>
-<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Homepage - / › should navigate to practice" classname="e2e-tests-fixed.spec.ts" time="4.118">
+<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Homepage - / › should navigate to practice" classname="e2e-tests-fixed.spec.ts" time="3.542">
 </testcase>
-<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Homepage - / › should navigate to test" classname="e2e-tests-fixed.spec.ts" time="6.736">
+<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Homepage - / › should navigate to test" classname="e2e-tests-fixed.spec.ts" time="8.079">
 </testcase>
-<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Practice Page - /practice › should load practice page" classname="e2e-tests-fixed.spec.ts" time="3.529">
+<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Practice Page - /practice › should load practice page" classname="e2e-tests-fixed.spec.ts" time="3.417">
 </testcase>
-<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Practice Page - /practice › should display practice content" classname="e2e-tests-fixed.spec.ts" time="3.252">
+<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Practice Page - /practice › should display practice content" classname="e2e-tests-fixed.spec.ts" time="3.491">
 </testcase>
-<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Practice Page - /practice › should have back button" classname="e2e-tests-fixed.spec.ts" time="3.031">
+<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Practice Page - /practice › should have back button" classname="e2e-tests-fixed.spec.ts" time="3.054">
 <properties>
 <property name="skip" value="">
 </property>
@@ -439,7 +428,7 @@
 <skipped>
 </skipped>
 </testcase>
-<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Practice Page - /practice › back button should navigate to home" classname="e2e-tests-fixed.spec.ts" time="3.089">
+<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Practice Page - /practice › back button should navigate to home" classname="e2e-tests-fixed.spec.ts" time="3.315">
 <properties>
 <property name="skip" value="">
 </property>
@@ -447,15 +436,15 @@
 <skipped>
 </skipped>
 </testcase>
-<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Test Page - /test › should load test page" classname="e2e-tests-fixed.spec.ts" time="7.359">
+<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Test Page - /test › should load test page" classname="e2e-tests-fixed.spec.ts" time="8.273">
 </testcase>
-<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Test Page - /test › should have test configuration" classname="e2e-tests-fixed.spec.ts" time="7.901">
+<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Test Page - /test › should have test configuration" classname="e2e-tests-fixed.spec.ts" time="8.311">
 </testcase>
-<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Test Page - /test › back button should navigate to home" classname="e2e-tests-fixed.spec.ts" time="7.74">
+<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Test Page - /test › back button should navigate to home" classname="e2e-tests-fixed.spec.ts" time="7.681">
 </testcase>
-<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Review Page - /review › should load review page" classname="e2e-tests-fixed.spec.ts" time="3.846">
+<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Review Page - /review › should load review page" classname="e2e-tests-fixed.spec.ts" time="3.288">
 </testcase>
-<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Review Page - /review › should have back button" classname="e2e-tests-fixed.spec.ts" time="2.35">
+<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Review Page - /review › should have back button" classname="e2e-tests-fixed.spec.ts" time="2.736">
 <properties>
 <property name="skip" value="">
 </property>
@@ -463,9 +452,9 @@
 <skipped>
 </skipped>
 </testcase>
-<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Settings Page - /settings › should load settings page" classname="e2e-tests-fixed.spec.ts" time="2.249">
+<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Settings Page - /settings › should load settings page" classname="e2e-tests-fixed.spec.ts" time="2.554">
 </testcase>
-<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Settings Page - /settings › should have back button" classname="e2e-tests-fixed.spec.ts" time="2.105">
+<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Settings Page - /settings › should have back button" classname="e2e-tests-fixed.spec.ts" time="2.018">
 <properties>
 <property name="skip" value="">
 </property>
@@ -473,9 +462,9 @@
 <skipped>
 </skipped>
 </testcase>
-<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Stats Page - /stats › should load stats page" classname="e2e-tests-fixed.spec.ts" time="2.156">
+<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Stats Page - /stats › should load stats page" classname="e2e-tests-fixed.spec.ts" time="2.209">
 </testcase>
-<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Stats Page - /stats › should have back button" classname="e2e-tests-fixed.spec.ts" time="1.92">
+<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Stats Page - /stats › should have back button" classname="e2e-tests-fixed.spec.ts" time="1.654">
 <properties>
 <property name="skip" value="">
 </property>
@@ -484,10 +473,10 @@
 </skipped>
 </testcase>
 </testsuite>
-<testsuite name="e2e-tests-fixed.spec.ts" timestamp="2026-07-17T08:14:43.111Z" hostname="Mobile Safari" tests="38" failures="0" skipped="12" time="199.705" errors="0">
-<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Homepage - / › should load homepage with correct title" classname="e2e-tests-fixed.spec.ts" time="4.098">
+<testsuite name="e2e-tests-fixed.spec.ts" timestamp="2026-07-17T13:43:21.460Z" hostname="Mobile Safari" tests="38" failures="0" skipped="12" time="192.663" errors="0">
+<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Homepage - / › should load homepage with correct title" classname="e2e-tests-fixed.spec.ts" time="4.083">
 </testcase>
-<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Homepage - / › should display main hero section" classname="e2e-tests-fixed.spec.ts" time="4.05">
+<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Homepage - / › should display main hero section" classname="e2e-tests-fixed.spec.ts" time="3.476">
 <properties>
 <property name="skip" value="Safari has different DOM rendering">
 </property>
@@ -495,7 +484,7 @@
 <skipped>
 </skipped>
 </testcase>
-<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Homepage - / › should show statistics" classname="e2e-tests-fixed.spec.ts" time="3.665">
+<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Homepage - / › should show statistics" classname="e2e-tests-fixed.spec.ts" time="3.121">
 <properties>
 <property name="skip" value="Safari has different DOM rendering">
 </property>
@@ -503,19 +492,19 @@
 <skipped>
 </skipped>
 </testcase>
-<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Homepage - / › should display CTA buttons" classname="e2e-tests-fixed.spec.ts" time="5.633">
+<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Homepage - / › should display CTA buttons" classname="e2e-tests-fixed.spec.ts" time="6.029">
 </testcase>
-<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Homepage - / › should navigate to practice" classname="e2e-tests-fixed.spec.ts" time="12.286">
+<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Homepage - / › should navigate to practice" classname="e2e-tests-fixed.spec.ts" time="11.717">
 </testcase>
-<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Homepage - / › should navigate to test" classname="e2e-tests-fixed.spec.ts" time="9.302">
+<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Homepage - / › should navigate to test" classname="e2e-tests-fixed.spec.ts" time="8.568">
 </testcase>
-<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Practice Page - /practice › should load practice page" classname="e2e-tests-fixed.spec.ts" time="4.51">
+<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Practice Page - /practice › should load practice page" classname="e2e-tests-fixed.spec.ts" time="5.009">
 </testcase>
-<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Practice Page - /practice › should display practice content" classname="e2e-tests-fixed.spec.ts" time="7.2">
+<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Practice Page - /practice › should display practice content" classname="e2e-tests-fixed.spec.ts" time="6.831">
 </testcase>
-<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Practice Page - /practice › should have back button" classname="e2e-tests-fixed.spec.ts" time="7.241">
+<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Practice Page - /practice › should have back button" classname="e2e-tests-fixed.spec.ts" time="11.577">
 </testcase>
-<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Practice Page - /practice › back button should navigate to home" classname="e2e-tests-fixed.spec.ts" time="5.191">
+<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Practice Page - /practice › back button should navigate to home" classname="e2e-tests-fixed.spec.ts" time="5.309">
 <properties>
 <property name="skip" value="Safari has navigation timeout issues">
 </property>
@@ -523,11 +512,11 @@
 <skipped>
 </skipped>
 </testcase>
-<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Test Page - /test › should load test page" classname="e2e-tests-fixed.spec.ts" time="8.872">
+<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Test Page - /test › should load test page" classname="e2e-tests-fixed.spec.ts" time="8.41">
 </testcase>
-<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Test Page - /test › should have test configuration" classname="e2e-tests-fixed.spec.ts" time="9.352">
+<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Test Page - /test › should have test configuration" classname="e2e-tests-fixed.spec.ts" time="9.569">
 </testcase>
-<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Test Page - /test › back button should navigate to home" classname="e2e-tests-fixed.spec.ts" time="8.281">
+<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Test Page - /test › back button should navigate to home" classname="e2e-tests-fixed.spec.ts" time="6.584">
 <properties>
 <property name="skip" value="Safari has navigation timeout issues">
 </property>
@@ -535,21 +524,21 @@
 <skipped>
 </skipped>
 </testcase>
-<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Review Page - /review › should load review page" classname="e2e-tests-fixed.spec.ts" time="6.17">
+<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Review Page - /review › should load review page" classname="e2e-tests-fixed.spec.ts" time="4.575">
 </testcase>
-<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Review Page - /review › should have back button" classname="e2e-tests-fixed.spec.ts" time="6.527">
+<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Review Page - /review › should have back button" classname="e2e-tests-fixed.spec.ts" time="5.404">
 </testcase>
-<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Settings Page - /settings › should load settings page" classname="e2e-tests-fixed.spec.ts" time="4.412">
+<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Settings Page - /settings › should load settings page" classname="e2e-tests-fixed.spec.ts" time="3.936">
 </testcase>
-<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Settings Page - /settings › should have back button" classname="e2e-tests-fixed.spec.ts" time="4.585">
+<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Settings Page - /settings › should have back button" classname="e2e-tests-fixed.spec.ts" time="4.021">
 </testcase>
-<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Stats Page - /stats › should load stats page" classname="e2e-tests-fixed.spec.ts" time="3.812">
+<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Stats Page - /stats › should load stats page" classname="e2e-tests-fixed.spec.ts" time="4.675">
 </testcase>
-<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Stats Page - /stats › should have back button" classname="e2e-tests-fixed.spec.ts" time="4.738">
+<testcase name="[Desktop] Leben in Deutschland Test App - E2E Tests › Stats Page - /stats › should have back button" classname="e2e-tests-fixed.spec.ts" time="4.722">
 </testcase>
-<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Homepage - / › should load homepage with correct title" classname="e2e-tests-fixed.spec.ts" time="3.177">
+<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Homepage - / › should load homepage with correct title" classname="e2e-tests-fixed.spec.ts" time="3.903">
 </testcase>
-<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Homepage - / › should display main hero section" classname="e2e-tests-fixed.spec.ts" time="3.395">
+<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Homepage - / › should display main hero section" classname="e2e-tests-fixed.spec.ts" time="3.062">
 <properties>
 <property name="skip" value="Safari has different DOM rendering">
 </property>
@@ -557,7 +546,7 @@
 <skipped>
 </skipped>
 </testcase>
-<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Homepage - / › should show statistics" classname="e2e-tests-fixed.spec.ts" time="2.869">
+<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Homepage - / › should show statistics" classname="e2e-tests-fixed.spec.ts" time="2.751">
 <properties>
 <property name="skip" value="Safari has different DOM rendering">
 </property>
@@ -565,17 +554,17 @@
 <skipped>
 </skipped>
 </testcase>
-<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Homepage - / › should display CTA buttons" classname="e2e-tests-fixed.spec.ts" time="6.827">
+<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Homepage - / › should display CTA buttons" classname="e2e-tests-fixed.spec.ts" time="5.139">
 </testcase>
-<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Homepage - / › should navigate to practice" classname="e2e-tests-fixed.spec.ts" time="6.519">
+<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Homepage - / › should navigate to practice" classname="e2e-tests-fixed.spec.ts" time="5.508">
 </testcase>
-<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Homepage - / › should navigate to test" classname="e2e-tests-fixed.spec.ts" time="8.848">
+<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Homepage - / › should navigate to test" classname="e2e-tests-fixed.spec.ts" time="8.2">
 </testcase>
-<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Practice Page - /practice › should load practice page" classname="e2e-tests-fixed.spec.ts" time="3.609">
+<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Practice Page - /practice › should load practice page" classname="e2e-tests-fixed.spec.ts" time="2.99">
 </testcase>
-<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Practice Page - /practice › should display practice content" classname="e2e-tests-fixed.spec.ts" time="4.642">
+<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Practice Page - /practice › should display practice content" classname="e2e-tests-fixed.spec.ts" time="5.639">
 </testcase>
-<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Practice Page - /practice › should have back button" classname="e2e-tests-fixed.spec.ts" time="3.77">
+<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Practice Page - /practice › should have back button" classname="e2e-tests-fixed.spec.ts" time="4.084">
 <properties>
 <property name="skip" value="">
 </property>
@@ -583,7 +572,7 @@
 <skipped>
 </skipped>
 </testcase>
-<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Practice Page - /practice › back button should navigate to home" classname="e2e-tests-fixed.spec.ts" time="4.5">
+<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Practice Page - /practice › back button should navigate to home" classname="e2e-tests-fixed.spec.ts" time="3.666">
 <properties>
 <property name="skip" value="">
 </property>
@@ -591,11 +580,11 @@
 <skipped>
 </skipped>
 </testcase>
-<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Test Page - /test › should load test page" classname="e2e-tests-fixed.spec.ts" time="4.982">
+<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Test Page - /test › should load test page" classname="e2e-tests-fixed.spec.ts" time="4.449">
 </testcase>
-<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Test Page - /test › should have test configuration" classname="e2e-tests-fixed.spec.ts" time="4.857">
+<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Test Page - /test › should have test configuration" classname="e2e-tests-fixed.spec.ts" time="4.303">
 </testcase>
-<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Test Page - /test › back button should navigate to home" classname="e2e-tests-fixed.spec.ts" time="4.268">
+<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Test Page - /test › back button should navigate to home" classname="e2e-tests-fixed.spec.ts" time="4.08">
 <properties>
 <property name="skip" value="Safari has navigation timeout issues">
 </property>
@@ -603,9 +592,9 @@
 <skipped>
 </skipped>
 </testcase>
-<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Review Page - /review › should load review page" classname="e2e-tests-fixed.spec.ts" time="3.459">
+<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Review Page - /review › should load review page" classname="e2e-tests-fixed.spec.ts" time="3.934">
 </testcase>
-<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Review Page - /review › should have back button" classname="e2e-tests-fixed.spec.ts" time="2.913">
+<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Review Page - /review › should have back button" classname="e2e-tests-fixed.spec.ts" time="3.234">
 <properties>
 <property name="skip" value="">
 </property>
@@ -613,9 +602,9 @@
 <skipped>
 </skipped>
 </testcase>
-<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Settings Page - /settings › should load settings page" classname="e2e-tests-fixed.spec.ts" time="3.115">
+<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Settings Page - /settings › should load settings page" classname="e2e-tests-fixed.spec.ts" time="2.763">
 </testcase>
-<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Settings Page - /settings › should have back button" classname="e2e-tests-fixed.spec.ts" time="3.239">
+<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Settings Page - /settings › should have back button" classname="e2e-tests-fixed.spec.ts" time="2.808">
 <properties>
 <property name="skip" value="">
 </property>
@@ -623,9 +612,9 @@
 <skipped>
 </skipped>
 </testcase>
-<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Stats Page - /stats › should load stats page" classname="e2e-tests-fixed.spec.ts" time="2.849">
+<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Stats Page - /stats › should load stats page" classname="e2e-tests-fixed.spec.ts" time="2.762">
 </testcase>
-<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Stats Page - /stats › should have back button" classname="e2e-tests-fixed.spec.ts" time="1.942">
+<testcase name="[Mobile] Leben in Deutschland Test App - E2E Tests › Stats Page - /stats › should have back button" classname="e2e-tests-fixed.spec.ts" time="1.772">
 <properties>
 <property name="skip" value="">
 </property>
